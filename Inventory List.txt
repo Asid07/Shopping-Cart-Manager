@@ -1,0 +1,12 @@
+Product ID	Product Name	Price (PKR)
+
+   100	           Apple	    300
+   101	           Banana	    100
+   202	           Milk	            320
+   303	           Bread	    150
+   404	           Eggs	            400
+   505	           Rice	            160
+   606	           Sugar	    165
+   707	           Salt	            30
+   808	           Butter	    700
+   909	           Cheese	    900
